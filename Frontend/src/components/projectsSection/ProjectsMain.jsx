@@ -3,31 +3,31 @@ import SingleProject from "./SingleProject";
 
 const projects = [
   {
-    name: "Zerodha ",
+    name: "Zerodha",
     year: "Mar 2024",
     align: "right",
-    image: "../../public/images/website-img-1.jpg",
+    image: "/images/website-img-1.jpg",
     link: "#",
   },
   {
     name: "BookStore",
     year: "Sept 2024",
     align: "left",
-    image: "../../public/images/website-img-2.webp",
+    image: "/images/website-img-2.webp",
     link: "#",
   },
   {
     name: "Todo List",
     year: "Jan 2023",
     align: "right",
-    image: "../../public/images/website-img-3.jpg",
+    image: "/images/website-img-3.jpg",
     link: "#",
   },
   {
     name: "Simon Says Game",
     year: "May 2024",
     align: "left",
-    image: "../../public/images/website-img-4.jpg",
+    image: "/images/website-img-4.jpg",
     link: "#",
   },
 ];
