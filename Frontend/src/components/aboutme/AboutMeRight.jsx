@@ -11,7 +11,7 @@ const AboutMeRight = () => {
         transition={{ duration: 0.5 }}
       >
         <motion.img
-          src="../public/images/about-me.jpg"
+          src="/images/about-me.jpg"
           className="w-[30px] h-[420px] rounded-full justify-center mx-auto ml-4 sm:w-[300px]"
           alt="about me"
           initial={{ opacity: 0 }}
