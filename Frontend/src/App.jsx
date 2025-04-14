@@ -4,7 +4,7 @@ import HeroMain from "./components/herosection/HeroMain";
 
 import SubHeroMain from "./components/subherosection/SubHeroMain";
 import AboutMe from "./components/aboutme/AboutMe";
-import SkillsMain from "./components/Skills/SkillsMain";
+import SkillsMain from "./components/skills/SkillsMain";
 import ProjectsMain from "./components/projectsSection/ProjectsMain";
 import ContactMeMain from "./components/contactMeSection/ContactMeMain";
 import FooterMain from "./components/footer/FooterMain";
