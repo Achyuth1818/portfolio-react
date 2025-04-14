@@ -12,7 +12,7 @@ const HeroPic = () => {
         {/* Profile Image */}
         <div className="relative w-[80%] h-[80%] md:w-[90%] md:h-[90%] rounded-full overflow-hidden shadow-lg animate-float">
           <img
-            src="../../public/images/Achyuthimage2.jpg"
+            src="/images/Achyuthimage2.jpg"
             alt="Achyuth Reddy"
             className="object-cover w-full h-full"
           />
