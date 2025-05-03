@@ -7,28 +7,29 @@ const projects = [
     year: "Mar 2024",
     align: "right",
     image: "/images/website-img-1.jpg",
-    link: "#",
+    link: "https://zerodha-git-main-achyuth-reddys-projects.vercel.app/",
+  },
+    {
+    name: "Health Trackor",
+    year: "Jan 2024",
+    align: "right",
+    image: "/images/website-img-3.jpg",
+    link: "https://healthtrackor-2.onrender.com/",
   },
   {
     name: "BookStore",
     year: "Sept 2024",
     align: "left",
     image: "/images/website-img-2.webp",
-    link: "#",
+    link: "https://github.com/Achyuth1818",
   },
-  {
-    name: "Todo List",
-    year: "Jan 2023",
-    align: "right",
-    image: "/images/website-img-3.jpg",
-    link: "#",
-  },
+
   {
     name: "Simon Says Game",
     year: "May 2024",
     align: "left",
     image: "/images/website-img-4.jpg",
-    link: "#",
+    link: "https://github.com/Achyuth1818",
   },
 ];
 
