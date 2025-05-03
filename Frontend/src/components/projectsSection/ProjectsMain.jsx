@@ -12,14 +12,14 @@ const projects = [
     {
     name: "Health Trackor",
     year: "Jan 2024",
-    align: "right",
+    align: "left",
     image: "/images/website-img-3.jpg",
     link: "https://healthtrackor-2.onrender.com/",
   },
   {
     name: "BookStore",
     year: "Sept 2024",
-    align: "left",
+    align: "right",
     image: "/images/website-img-2.webp",
     link: "https://github.com/Achyuth1818",
   },
@@ -30,6 +30,21 @@ const projects = [
     align: "left",
     image: "/images/website-img-4.jpg",
     link: "https://github.com/Achyuth1818",
+  },
+    {
+    name: "to do list",
+    year: "Oct 2024",
+    align: "right",
+    image: "/images/website-img-2.webp",
+    link: "https://github.com/Achyuth1818",
+  },
+
+  {
+    name: "my profile 2",
+    year: "May 2023",
+    align: "left",
+    image: "/images/website-img-4.jpg",
+    link: "https://achyuth-reddy-five-woad-20.vercel.app/",
   },
 ];
 
